@@ -29,7 +29,7 @@ Stay tuned for my upcoming ML projects — they’re arriving soon!
 
 ## 🌻 Fun Facts
 - I can talk for hours 
-- I love visualizing data *almost* as much as I love cleaning it  
+- I love visualising data *almost* as much as I love cleaning it  
 - My coding playlist is 90% lo-fi  
 
 ---
