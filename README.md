@@ -1,46 +1,35 @@
-## 👋 Hi, I'm Saiba Mahesh!
+## 🌟 Welcome to my little corner of GitHub
 
-I'm a **Data Analyst** with a background in **Applied Mathematics** and **Biomedicine** (Monash University), now diving deep into the world of **Machine Learning** 🤖✨  
-Currently learning neural networks and building my foundation one experiment at a time.
+Hi, I'm **Saiba** — a curious human who loves math, data and building things.
 
----
-
-## 🌱 What I'm Learning
-- Neural networks (activation functions, backprop, all the fun stuff)
-- Model evaluation & MLOps basics
-- How to turn messy data into meaningful stories
+🎓 Studied **Applied Mathematics** & **Biomedicine** at **Monash University**  
+📊 Started in **Data Analytics**  
+🤖 Now training to be a **Machine Learning Engineer**
 
 ---
 
-## 🛠️ My Toolbox
-**Languages & Tools:**  
-🐍 Python | 📊 Power BI | 🗂️ SQL | 🔬 R  
+## 🧠 Current Adventure: Neural Networks, Game Theory
+Right now I'm learning:
+- Why gradients matter
+- How backprop *actually* works
+- Similating social influence
+- The difference between “it trains” and “it learns something useful” 😅  
 
-**ML Libraries I'm exploring:**  
-TensorFlow | PyTorch | scikit-learn | Pandas | NumPy
-
----
-
-## 🎯 My Goals
-- Build my first end-to-end ML project
-- Contribute to open-source ML tools
-- Land a role as an **ML Engineer** who builds models that matter
+Stay tuned for my upcoming ML projects — they’re arriving soon!
 
 ---
 
-Thanks for stopping by!
+## 🧰 Skills & Tools
+- **Python** (Pandas, Numpy, scikit-learn)
+- **Power BI** (dashboard building, data storytelling)
+- **SQL** (querying, cleaning, transforming)
+- **R** (statistics & visualization)
 
-<!--
-**msaiba/msaiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌻 Fun Facts
+- I can talk for hours 
+- I love visualizing data *almost* as much as I love cleaning it  
+- My coding playlist is 90% lo-fi  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
