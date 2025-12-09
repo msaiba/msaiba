@@ -1,6 +1,6 @@
 ## 🌟 Welcome to my little corner of GitHub
 
-Hi, I'm **Saiba** — a curious human who loves math, data and building things.
+Hi, I'm **Saiba**. A curious person who loves math, data and building things.
 
 🎓 Studied **Applied Mathematics** & **Biomedicine** at **Monash University**  
 📊 Started in **Data Analytics**  
@@ -11,11 +11,10 @@ Hi, I'm **Saiba** — a curious human who loves math, data and building things.
 ## 🧠 Current Adventure: Neural Networks, Game Theory
 Right now I'm learning:
 - Why gradients matter
-- How backprop *actually* works
 - Similating social influence
 - The difference between “it trains” and “it learns something useful” 😅  
 
-Stay tuned for my upcoming ML projects — they’re arriving soon!
+Stay tuned for my upcoming ML projects - they’re arriving soon!
 
 ---
 
@@ -23,7 +22,7 @@ Stay tuned for my upcoming ML projects — they’re arriving soon!
 - **Python** (Pandas, Numpy, scikit-learn)
 - **Power BI** (dashboard building, data storytelling)
 - **SQL** (querying, cleaning, transforming)
-- **R** (statistics & visualization)
+- **R** (statistics & visualisation)
 
 ---
 
